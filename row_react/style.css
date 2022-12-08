@@ -1,0 +1,30 @@
+body{
+    position: relative;
+    
+}
+.main_div{
+    position: absolute;
+    top: 250px;
+    right: 40%;
+    width: 400px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+ 
+}
+
+.main_div_2{
+    position: absolute;
+    right: 40%;
+    width: 400px;
+    height: 200px;
+    padding: 5px;
+    text-align: center;
+ 
+}
+#display,#display_2{
+    font-family: fantasy;
+    font-size: calc(3.375rem + 2.5vw);
+}
+
+
